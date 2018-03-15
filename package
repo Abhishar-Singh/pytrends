@@ -1,0 +1,6 @@
+#pytrends
+conda uninstall html5lib --force
+conda install -c anaconda html5lib
+#close cmd prmt
+
+pip install pytrends
